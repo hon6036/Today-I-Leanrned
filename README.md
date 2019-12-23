@@ -14,7 +14,7 @@
 
 ---
 ## 2019.12.23
----
+
 [커밋 방법 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191223%20커밋방법)
 
 ---
