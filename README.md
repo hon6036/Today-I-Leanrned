@@ -6,9 +6,10 @@
 ---
 ## 방법
 1. 공부하는 부분은 자유 입니다.
-2. 자신의 Repositories에 날짜(20191223) 공부내용(동적프로그래밍)을 커밋합니다.
+2. 자신의 Repositorie에 날짜(20191223) 공부내용(동적프로그래밍)을 커밋합니다.
 3. 이 마크다운에는 날짜 밑에 공부내용 - 이름을 위의 커밋한곳의 링크를 걸고 업로드 합니다.
 
+예시
 [동적프로그래밍 - 승환](https://github.com/hon6036/test/blob/master/%EC%98%88%EC%8B%9C)
 ![힝](https://github.com/hon6036/test/blob/master/example.PNG)
 
