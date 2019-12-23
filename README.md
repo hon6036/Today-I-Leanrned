@@ -11,7 +11,6 @@
 
 예시
 [동적프로그래밍 - 승환](https://github.com/hon6036/test/blob/master/%EC%98%88%EC%8B%9C)
-![힝](https://github.com/hon6036/test/blob/master/example.PNG)
 
 ---
 ## 2019.12.23
