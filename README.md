@@ -10,7 +10,7 @@
 3. 이 마크다운에는 날짜 밑에 공부내용 - 이름을 위의 커밋한곳의 링크를 걸고 업로드 합니다.
 
 [동적프로그래밍 - 승환](https://github.com/hon6036/test/blob/master/%EC%98%88%EC%8B%9C)
-[힝](https://github.com/hon6036/test/blob/master/example.PNG)
+![힝](https://github.com/hon6036/test/blob/master/example.PNG)
 
 ---
 ## 2019.12.23
