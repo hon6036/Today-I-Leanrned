@@ -19,6 +19,6 @@
 
 ---
 ## 2019.12.24
-
+[파이썬 기초 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191224%20파이썬%20기초)
 
 
