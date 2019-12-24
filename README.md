@@ -13,12 +13,12 @@
 [동적프로그래밍 - 승환](https://github.com/hon6036/test/blob/master/%EC%98%88%EC%8B%9C)
 
 ---
-## 2019.12.23
+## 2019.12.23 0일차
 
 [커밋 방법 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191223%20커밋방법)
 
 ---
-## 2019.12.24
+## 2019.12.24 1일차
 [파이썬 기초 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191224%20파이썬%20기초)
 
 
