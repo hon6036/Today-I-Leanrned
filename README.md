@@ -20,5 +20,5 @@
 ---
 ## 2019.12.24 1일차
 [파이썬 기초 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191224%20파이썬%20기초)
-
+[Git 기초 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191224%20Git)
 
