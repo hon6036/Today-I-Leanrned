@@ -27,5 +27,5 @@
 
 ---
 ## 2019.12.25 2일차
-
+[파이썬 제어문 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191225%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
 
