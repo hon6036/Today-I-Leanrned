@@ -47,4 +47,7 @@
 
 ---
 ## 2019.12.27 4일차
-
+[Edge Computing - 호찬](./hochan/20191226_KubeEdge.md)
+```bash
+- Add Introduction Kubernetes, Introduction EdgeComputing, Introduction KudeEdge
+```
