@@ -40,3 +40,5 @@
 - MarkDownGuideLine.md 추가했어용!
 ```
 [파이썬 입출력 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191226%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
+
+[4:입력과 출력(기초) - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191226%204:%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5(%EA%B8%B0%EC%B4%88))
