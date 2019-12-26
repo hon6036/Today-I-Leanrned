@@ -39,3 +39,4 @@
 ```bash
 - MarkDownGuideLine.md 추가했어용!
 ```
+[파이썬 입출력 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191226%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
