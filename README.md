@@ -36,3 +36,6 @@
 [1장 파이썬이란 무엇인가?, 2장 파이썬 프로그래밍의 기초, 자료형 2-1 숫자형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20191226%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC1%EC%9D%BC%EC%B0%A8)
 
 [Edge Computing - 호찬](./hochan/20191226_KubeEdge.md)
+```bash
+- MarkDownGuideLine.md 추가했어용!
+```
