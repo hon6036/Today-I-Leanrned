@@ -30,3 +30,6 @@
 [파이썬 제어문 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191225%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
 
 [변수와 데이터 타입  - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191225%202:%EB%B3%80%EC%88%98%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85)
+
+---
+## 2019.12.26 3일차
