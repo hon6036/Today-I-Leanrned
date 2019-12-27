@@ -63,7 +63,7 @@
 [조건문 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191227%205:%EC%A1%B0%EA%B1%B4%EB%AC%B8)
 
 ---
-## 2019.12.27 4일차
+## 2019.12.28 5일차
 [Algorithm - 호찬](./hochan/Readme.md)
 ```bash
 - Solve 1011, 2869, 3052, 10818, 1712
