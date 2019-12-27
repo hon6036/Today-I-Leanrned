@@ -40,7 +40,7 @@
 ## 2019.12.26 3일차
 [1장 파이썬이란 무엇인가?, 2장 파이썬 프로그래밍의 기초, 자료형 2-1 숫자형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20191226%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC1%EC%9D%BC%EC%B0%A8)
 
-[Edge Computing - 호찬](./hochan/20191226_KubeEdge.md)
+[Edge Computing - 호찬](./hochan/KubeEdge.md)
 ```bash
 - MarkDownGuideLine.md 추가했어용!
 ```
@@ -52,7 +52,7 @@
 
 ---
 ## 2019.12.27 4일차
-[Edge Computing - 호찬](./hochan/20191226_KubeEdge.md)
+[Edge Computing - 호찬](./hochan/KubeEdge.md)
 ```bash
 - Add Introduction Kubernetes, Introduction EdgeComputing, Introduction KudeEdge
 ```
@@ -61,3 +61,10 @@
 [파이썬 규칙찾기,소수 - 홍승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20191227%20%EA%B7%9C%EC%B9%99%20%EC%B0%BE%EA%B8%B0%2C%20%EC%86%8C%EC%88%98)
 
 [조건문 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191227%205:%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+
+---
+## 2019.12.27 4일차
+[Algorithm - 호찬](./hochan/Readme.md)
+```bash
+- Solve 1011, 2869, 3052, 10818, 1712
+```
