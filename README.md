@@ -13,6 +13,10 @@
 [동적프로그래밍 - 승환](https://github.com/hon6036/test/blob/master/%EC%98%88%EC%8B%9C)
 
 ---
+링크
+[0 ~ 10일차](#2019.12.23 0일차)
+
+---
 ## 2019.12.23 0일차
 
 [커밋 방법 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191223%20커밋방법)
