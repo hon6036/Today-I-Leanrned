@@ -68,3 +68,5 @@
 ```bash
 - Solve 1011, 2869, 3052, 10818, 1712
 ```
+
+[반복문과 리스트 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191228%206:%20%EB%B0%98%EB%B3%B5%EB%AC%B8(loop)%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(list))
