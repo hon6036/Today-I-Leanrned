@@ -76,3 +76,5 @@
 [예외 처리 - 도영 ](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191229%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 
 [산타토익 - 호찬](./hochan/Readme.md)
+
+[튜플,딕셔너리,집합 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191229%207:%EB%8B%A4%EB%A5%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85:%ED%8A%9C%ED%94%8C%2C%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%2C%EC%A7%91%ED%95%A9)
