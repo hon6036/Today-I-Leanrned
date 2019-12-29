@@ -71,4 +71,4 @@
 
 [반복문과 리스트 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191228%206:%20%EB%B0%98%EB%B3%B5%EB%AC%B8(loop)%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(list))
 
-[예외처리 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191229%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
+
