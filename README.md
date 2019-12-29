@@ -73,4 +73,4 @@
 
 ---
 ## 2019.12.29 6일차
-[예외 처리 - ](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191229%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
+[예외 처리 - 도영 ](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191229%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
