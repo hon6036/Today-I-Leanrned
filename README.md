@@ -58,7 +58,7 @@
 ```
 [클래스 모듈 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20151227%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%AA%A8%EB%93%88)
 
-[파이썬 규칙찾기,소수 - 홍승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20191227%20%EA%B7%9C%EC%B9%99%20%EC%B0%BE%EA%B8%B0%2C%20%EC%86%8C%EC%88%98)
+[파이썬 규칙찾기,소수 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20191227%20%EA%B7%9C%EC%B9%99%20%EC%B0%BE%EA%B8%B0%2C%20%EC%86%8C%EC%88%98)
 
 [조건문 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191227%205:%EC%A1%B0%EA%B1%B4%EB%AC%B8)
 
