@@ -81,4 +81,4 @@
 
 ---
 ## 2019.12.30 7일차
-
+[내장 함수 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191230%20%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98)
