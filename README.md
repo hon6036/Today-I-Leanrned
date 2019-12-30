@@ -86,3 +86,5 @@
 [소수, 재귀, 분할정복 -승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20191230%20%EC%86%8C%EC%88%98%2C%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%2C%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
 
 [산타토익 - 호찬](./hochan/Readme.md)
+
+[문자열, 함수- 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20191230%208:%20%EB%AC%B8%EC%9E%90%EC%97%B4(string)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%2C%209:%20%ED%95%A8%EC%88%98(function))
