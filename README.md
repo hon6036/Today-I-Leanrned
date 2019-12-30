@@ -82,3 +82,6 @@
 ---
 ## 2019.12.30 7일차
 [내장 함수 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191230%20%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98)
+
+[소수, 재귀, 분할정복 -승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20191230%20%EC%86%8C%EC%88%98%2C%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%2C%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
+
