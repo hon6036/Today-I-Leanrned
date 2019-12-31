@@ -91,3 +91,4 @@
 
 ---
 ## 2019.12.31 8일차
+[연습 문제(외장함수 제외) - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20191231%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C)
