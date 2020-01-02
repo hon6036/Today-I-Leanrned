@@ -53,9 +53,16 @@
 ###### 사실 당신은, 여러 클라우드를 사용해 한 시스템을 개발할 수도 있다. 당신의 데이터를 많은 다양한 위치에 저장할 수 있다. 여기에선 의존할 필요가 없다. 솔직히 말하면 쿠버네티스 주도 시스템의 일부에선 중앙화되고, 특정 기술 스택에 묶이지 않는다.
 </br>
 
+##### TOP 6 GUI tools for managing Docker environments
+(TOP 6 GUI tools for managing Docker environments)[https://medium.com/@karthi.net/top-6-gui-tools-for-managing-docker-environments-ee2d69ba5a4f]
+
 ##### Install Kubernetes
 [우분투 Kubernetes 설치 방법](https://hiseon.me/linux/ubuntu/ubuntu-kubernetes-install/)
 
+##### References
+[jun108059 Kubernetes](https://github.com/jun108059/til/tree/master/kubernetes)
+[Google Study Jam Cloud](https://docs.google.com/presentation/d/1FVHcAkjbiOWt7wozXfVl8Da9m9NgHSeZ85PznVKIo0w/edit?fbclid=IwAR1prUc5bIhqR28l3JnsHC1Kb7yANySbX80kx9gxzghDWPexihhy3m72bMg#slide=id.g52674f410c_0_13)
+[Google Study Jam kubernetes](https://drive.google.com/file/d/11RBTPOtJ1IArI2aR5hZXqSZlpoQ3D5J7/view?fbclid=IwAR252kC3jBiVpqkfrIm45lVxxZFSmYA5WOYh0jsCjJhLo1UfVPwVRV-ed8Q)
 </br>
 
 #### 📖 Introduction EdgeComputing
