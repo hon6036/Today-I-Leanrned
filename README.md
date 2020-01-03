@@ -119,3 +119,5 @@
 ---
 ## 2020.01.03 11일차
 [파이썬 딕셔너리 자료형 - 윤우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC3%EC%9D%BC%EC%B0%A8)
+
+[백준 틀린 문제 풀이 - 도영] (https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%ED%92%80%EC%9D%B4)
