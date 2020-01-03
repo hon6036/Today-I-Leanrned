@@ -121,3 +121,5 @@
 [파이썬 딕셔너리 자료형 - 윤우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC3%EC%9D%BC%EC%B0%A8)
 
 [백준 틀린 문제 풀이 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%ED%92%80%EC%9D%B4)
+
+[백준 입출력과 사칙연산 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
