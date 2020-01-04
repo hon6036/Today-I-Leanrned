@@ -126,4 +126,4 @@
 
 ---
 ## 2020.01.04 12일차
-[백준 if, while - 도영]
+[백준 if, while - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200104%20%EB%B0%B1%EC%A4%80%20if%2C%20while)
