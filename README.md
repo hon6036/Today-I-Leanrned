@@ -123,3 +123,7 @@
 [백준 틀린 문제 풀이 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%ED%92%80%EC%9D%B4)
 
 [백준 입출력과 사칙연산 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+
+---
+## 2020.01.04 12일차
+[백준 if, while - 도영]
