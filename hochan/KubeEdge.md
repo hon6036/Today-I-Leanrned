@@ -43,6 +43,8 @@
 
 [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI&feature=emb_logo)
 
+https://judo0179.tistory.com/57
+
 [쿠버네티스가 SW엔지니어링과 비즈니스IT판을 뒤흔드는 이유](https://techit.kr/view/?no=20191222102610)
 2019.12.22
 
