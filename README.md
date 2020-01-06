@@ -139,4 +139,5 @@
 ## 2020.01.06 14일차
 
 [카운팅 정렬, Counter 모듈 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200106%20%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC%2C%20Counter%EB%AA%A8%EB%93%88)
+
 [파이썬 집합, 불 자료형, 변수란? - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200106%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC4%EC%9D%BC%EC%B0%A8)
