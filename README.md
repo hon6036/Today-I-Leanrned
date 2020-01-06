@@ -145,3 +145,5 @@
 [백준 1차원 배열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200106%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
 
 [Edge Computing - 호찬](./hochan/KubeEdge.md)
+
+[백준 1차원 배열 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200106%20%EB%B0%B1%EC%A4%80%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
