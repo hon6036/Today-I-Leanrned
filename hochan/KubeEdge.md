@@ -59,7 +59,8 @@ https://judo0179.tistory.com/57
 (TOP 6 GUI tools for managing Docker environments)[https://medium.com/@karthi.net/top-6-gui-tools-for-managing-docker-environments-ee2d69ba5a4f]
 
 ##### Install Kubernetes
-[우분투 Kubernetes 설치 방법](https://hiseon.me/linux/ubuntu/ubuntu-kubernetes-install/)
+[우분투 Kubernetes 설치 방법](https://www.edureka.co/blog/install-kubernetes-on-ubuntu)
+[kubernetes dashboard](https://github.com/kubernetes/dashboard)
 
 ##### References
 [jun108059 Kubernetes](https://github.com/jun108059/til/tree/master/kubernetes)
@@ -118,3 +119,4 @@ https://judo0179.tistory.com/57
 
 * [KudeEdge](https://kubeedge.io/en/)
 * [MEC(Multi-Access Edge Computing)란?](https://www.juniper.net/kr/kr/products-services/what-is/multi-access-edge-computing/)
+* [VM Static Hosting Network config_ubuntu](https://blog.hkwon.me/virtualbox-hoseuteu-jeonyong-eodaebteo-seoljeong-2/)

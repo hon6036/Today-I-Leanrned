@@ -143,3 +143,5 @@
 [파이썬 집합, 불 자료형, 변수란? - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200106%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC4%EC%9D%BC%EC%B0%A8)
 
 [백준 1차원 배열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200106%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
+
+[Edge Computing - 호찬](./hochan/KubeEdge.md)
