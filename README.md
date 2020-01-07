@@ -108,7 +108,7 @@
 ---
 ## 2020.01.02 10일차
 
-[파이썬 문자열, 리스트, 튜플 자료형 - 윤우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%9D%BC%EC%B0%A8)
+[파이썬 문자열, 리스트, 튜플 자료형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%9D%BC%EC%B0%A8)
 
 [프로그래밍 예시 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200102%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%98%88%EC%8B%9C)
 
@@ -118,7 +118,7 @@
 
 ---
 ## 2020.01.03 11일차
-[파이썬 딕셔너리 자료형 - 윤우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC3%EC%9D%BC%EC%B0%A8)
+[파이썬 딕셔너리 자료형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC3%EC%9D%BC%EC%B0%A8)
 
 [백준 틀린 문제 풀이 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%ED%92%80%EC%9D%B4)
 
@@ -154,3 +154,5 @@
 [백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200107%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
 
 [백준 문자열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200107%20%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+[점프투 파이썬 2단원 연습문제 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200107%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC5%EC%9D%BC%EC%B0%A8)
