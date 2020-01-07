@@ -156,3 +156,5 @@
 [백준 문자열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200107%20%EB%AC%B8%EC%9E%90%EC%97%B4)
 
 [점프투 파이썬 2단원 연습문제 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200107%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC5%EC%9D%BC%EC%B0%A8)
+
+[백준 함수, 문자열 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200107%20%EB%B0%B1%EC%A4%80%20%ED%95%A8%EC%88%98,%20%EB%AC%B8%EC%9E%90%EC%97%B4)
