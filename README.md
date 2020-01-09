@@ -172,3 +172,5 @@
 [백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200109%20%EB%B0%B1%ED%8A%B8%EB%9E%99%ED%82%B9)
 
 [백준 수학1 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200109%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%991)
+
+[백준 수학1 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200109%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%991)
