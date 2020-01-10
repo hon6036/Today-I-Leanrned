@@ -180,3 +180,6 @@
 
 [백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200110%20%EB%B0%B1%ED%8A%B8%EB%9E%99%ED%82%B9)
 
+[파이썬 제어문 if문, while문 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200110%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC6%EC%9D%BC%EC%B0%A8)
+
+
