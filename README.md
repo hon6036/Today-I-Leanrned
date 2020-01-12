@@ -197,4 +197,4 @@
 
 [dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200112%20dp)
 
-[백준 브루트 포스, 정렬 - ](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200112%20%EB%B0%B1%EC%A4%80%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4%2C%20%EC%A0%95%EB%A0%AC)
+[백준 브루트 포스, 정렬 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200112%20%EB%B0%B1%EC%A4%80%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4%2C%20%EC%A0%95%EB%A0%AC)
