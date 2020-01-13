@@ -206,3 +206,5 @@
 [백준 수학2 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200113%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%992)
 
 [파이썬 제어문 for문 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200113%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC7%EC%9D%BC%EC%B0%A8)
+
+[백준 정렬 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200113%20%EB%B0%B1%EC%A4%80%20%EC%A0%95%EB%A0%AC%2C%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
