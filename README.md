@@ -222,3 +222,5 @@
 
 ---
 ## 2020.01.15 23일차
+
+[백준 브루드포스 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200115%20%EB%B8%8C%EB%A3%A8%EB%93%9C%20%ED%8F%AC%EC%8A%A4)
