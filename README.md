@@ -219,3 +219,6 @@
 [백준 수학2, 재귀-도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200114%20%EC%88%98%ED%95%992%20%EC%9E%AC%EA%B7%80)
 
 [백준 백트래킹 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200114%20%EB%B0%B1%EC%A4%80%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
+---
+## 2020.01.15 23일차
