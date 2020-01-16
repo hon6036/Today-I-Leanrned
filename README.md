@@ -226,3 +226,6 @@
 [백준 브루드포스 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200115%20%EB%B8%8C%EB%A3%A8%EB%93%9C%20%ED%8F%AC%EC%8A%A4)
 
 [백준 백트래킹 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200115%20%EB%B0%B1%EC%A4%80%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
+
+---
+## 2020.01.16 24일차
