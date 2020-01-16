@@ -233,3 +233,5 @@
 [dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200116%20dp)
 
 [BFS, DFS, 백트래킹, 브루트포스 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200116%20BFS,%20DFS,%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9,%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
+
+[백준 정렬 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200116%20%EB%B0%B1%EC%A4%80%20%EC%A0%95%EB%A0%AC)
