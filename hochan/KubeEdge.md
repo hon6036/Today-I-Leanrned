@@ -43,6 +43,8 @@
 
 [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI&feature=emb_logo)
 
+https://judo0179.tistory.com/57
+
 [쿠버네티스가 SW엔지니어링과 비즈니스IT판을 뒤흔드는 이유](https://techit.kr/view/?no=20191222102610)
 2019.12.22
 
@@ -57,7 +59,8 @@
 [TOP 6 GUI tools for managing Docker environments](https://medium.com/@karthi.net/top-6-gui-tools-for-managing-docker-environments-ee2d69ba5a4f)
 
 ##### Install Kubernetes
-[우분투 Kubernetes 설치 방법](https://hiseon.me/linux/ubuntu/ubuntu-kubernetes-install/)
+[우분투 Kubernetes 설치 방법](https://www.edureka.co/blog/install-kubernetes-on-ubuntu)
+[kubernetes dashboard](https://github.com/kubernetes/dashboard)
 
 ##### References
 [jun108059 Kubernetes](https://github.com/jun108059/til/tree/master/kubernetes)
@@ -116,3 +119,4 @@
 
 * [KudeEdge](https://kubeedge.io/en/)
 * [MEC(Multi-Access Edge Computing)란?](https://www.juniper.net/kr/kr/products-services/what-is/multi-access-edge-computing/)
+* [VM Static Hosting Network config_ubuntu](https://blog.hkwon.me/virtualbox-hoseuteu-jeonyong-eodaebteo-seoljeong-2/)

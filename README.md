@@ -17,6 +17,7 @@
 
 - [0일차](#20191223-0일차)
 - [10일차](#20200102-10일차)
+- [20일차](#20200112-20일차)
 
 ---
 ## 2019.12.23 0일차
@@ -108,10 +109,129 @@
 ---
 ## 2020.01.02 10일차
 
-[파이썬 문자열, 리스트, 튜플 자료형 - 윤우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%9D%BC%EC%B0%A8)
+[파이썬 문자열, 리스트, 튜플 자료형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%9D%BC%EC%B0%A8)
 
 [프로그래밍 예시 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200102%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%98%88%EC%8B%9C)
 
 [백준 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200102%20%EB%B0%B1%EC%A4%80%201012)
 
 [Edge Computing - 호찬](./hochan/KubeEdge.md)
+
+---
+## 2020.01.03 11일차
+[파이썬 딕셔너리 자료형 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200102%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC3%EC%9D%BC%EC%B0%A8)
+
+[백준 틀린 문제 풀이 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%ED%92%80%EC%9D%B4)
+
+[백준 입출력과 사칙연산 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200103%20%EB%B0%B1%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+
+---
+## 2020.01.04 12일차
+[백준 for, while - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200104%20%EB%B0%B1%EC%A4%80%20if%2C%20while)
+
+[백준 if, for, while - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200104%20%EB%B0%B1%EC%A4%80%20if,%20for,%20while)
+
+---
+## 2020.01.05 13일차
+
+[Edge Computing - 호찬](./hochan/KubeEdge.md)
+
+---
+## 2020.01.06 14일차
+
+[카운팅 정렬, Counter 모듈 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200106%20%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC%2C%20Counter%EB%AA%A8%EB%93%88)
+
+[파이썬 집합, 불 자료형, 변수란? - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200106%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC4%EC%9D%BC%EC%B0%A8)
+
+[백준 1차원 배열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200106%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
+
+[Edge Computing - 호찬](./hochan/KubeEdge.md)
+
+[백준 1차원 배열 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200106%20%EB%B0%B1%EC%A4%80%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
+
+---
+## 2020.01.07 15일차
+
+[백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200107%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
+[백준 문자열 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200107%20%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+[점프투 파이썬 2단원 연습문제 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200107%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC5%EC%9D%BC%EC%B0%A8)
+
+[백준 함수, 문자열 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200107%20%EB%B0%B1%EC%A4%80%20%ED%95%A8%EC%88%98,%20%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+---
+## 2020.01.08 16일차
+
+[블록체인 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200108%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+
+[백준 문자열, 수학1 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200108%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%9E%90%EC%97%B4%2C%20%EC%88%98%ED%95%991)
+
+---
+## 2020.01.09 17일차
+
+[백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200109%20%EB%B0%B1%ED%8A%B8%EB%9E%99%ED%82%B9)
+
+[백준 수학1 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200109%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%991)
+
+[백준 수학1 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200109%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%991)
+
+---
+## 2020.01.10 18일차
+
+[백트랙킹 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200110%20%EB%B0%B1%ED%8A%B8%EB%9E%99%ED%82%B9)
+
+[파이썬 제어문 if문, while문 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200110%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC6%EC%9D%BC%EC%B0%A8)
+
+[백준 수학2 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200110%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%992)
+
+---
+## 2020.01.11 19일차
+
+[dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200111%20dp)
+
+[백준 수학2, 재귀 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200111%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%992%2C%20%EC%9E%AC%EA%B7%80)
+
+---
+## 2020.01.12 20일차
+
+[dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200112%20dp)
+
+[백준 브루트 포스, 정렬 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200112%20%EB%B0%B1%EC%A4%80%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4%2C%20%EC%A0%95%EB%A0%AC)
+
+---
+## 2020.01.13 21일차
+[dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200113%20dp)
+
+[백준 수학2 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200113%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%992)
+
+[파이썬 제어문 for문 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200113%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC7%EC%9D%BC%EC%B0%A8)
+
+[백준 정렬 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200113%20%EB%B0%B1%EC%A4%80%20%EC%A0%95%EB%A0%AC%2C%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
+---
+## 2020.01.14 22일차
+
+[dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200114%20dp)
+
+[파이썬 3단원 연습문제 - 우현](https://github.com/iuisgodness/workplace/commit/dcdc2a29a2148c9848a79034f396674000ec2352)
+
+[백준 수학2, 재귀-도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200114%20%EC%88%98%ED%95%992%20%EC%9E%AC%EA%B7%80)
+
+[백준 백트래킹 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200114%20%EB%B0%B1%EC%A4%80%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
+---
+## 2020.01.15 23일차
+
+[백준 브루드포스 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200115%20%EB%B8%8C%EB%A3%A8%EB%93%9C%20%ED%8F%AC%EC%8A%A4)
+
+[백준 백트래킹 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200115%20%EB%B0%B1%EC%A4%80%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
+
+---
+## 2020.01.16 24일차
+
+[dp - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200116%20dp)
+
+[BFS, DFS, 백트래킹, 브루트포스 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200116%20BFS,%20DFS,%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9,%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)
+
+[백준 정렬 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200116%20%EB%B0%B1%EC%A4%80%20%EC%A0%95%EB%A0%AC)
