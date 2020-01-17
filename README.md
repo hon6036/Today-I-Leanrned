@@ -237,6 +237,6 @@
 [백준 정렬 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200116%20%EB%B0%B1%EC%A4%80%20%EC%A0%95%EB%A0%AC)
 
 ---
-## 2020.01.16 24일차
+## 2020.01.17 25일차
 
 [electron-vue-tailwind-boilerplate - 호찬](https://github.com/hochan222/electron-vue-tailwind-boilerplate)
