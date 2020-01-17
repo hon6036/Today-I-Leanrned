@@ -71,7 +71,7 @@ https://judo0179.tistory.com/57
 #### ✏️ About Docker & Kubernetes Tutorial img  
 </br>
 
-![img](./img/addNode.png)
+![img](./img/addNode.PNG)
 ![img](./img/portainer.png)
 
 
