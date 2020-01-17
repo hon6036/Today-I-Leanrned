@@ -68,6 +68,13 @@ https://judo0179.tistory.com/57
 [Google Study Jam kubernetes](https://drive.google.com/file/d/11RBTPOtJ1IArI2aR5hZXqSZlpoQ3D5J7/view?fbclid=IwAR252kC3jBiVpqkfrIm45lVxxZFSmYA5WOYh0jsCjJhLo1UfVPwVRV-ed8Q)
 </br>
 
+#### ✏️ About Docker & Kubernetes Tutorial img  
+</br>
+
+![img](./img/addNode.png)
+![img](./img/portainer.png)
+
+
 #### 📖 Introduction EdgeComputing
 
 [엣지컴퓨팅 뜨니 통신-클라우드 공룡들 합종연횡 가속](https://www.bloter.net/archives/365415)
