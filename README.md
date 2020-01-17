@@ -240,3 +240,5 @@
 ## 2020.01.17 25일차
 
 [electron-vue-tailwind-boilerplate - 호찬](https://github.com/hochan222/electron-vue-tailwind-boilerplate)
+
+[백준 정렬, 외장함수 sys - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200117%20%EC%A0%95%EB%A0%AC%20sys%EC%99%B8%EC%9E%A5%ED%95%A8%EC%88%98)
