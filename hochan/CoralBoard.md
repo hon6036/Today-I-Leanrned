@@ -20,8 +20,17 @@
 - login default ID/PW: mendel
 
 
-#### ✨ About CoralBoard Tutorial img  
+#### ✏️ About CoralBoard Tutorial img  
+</br>
+
+##### TPU를 이용한 MobileNet 실행
 </br>
 
 ![img](./img/coralt1.png)
+
+</br>
+
+##### TensorFlow Lite API 실행
+</br>
+
 ![img](./img/coralt2.png)
