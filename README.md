@@ -265,3 +265,5 @@
 [스택 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200120%20%EC%8A%A4%ED%83%9D)
 
 [백트레킹 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200120%20%EB%B0%B1%EC%A4%80%20%EB%B0%B1%ED%8A%B8%EB%A0%88%ED%82%B9)
+
+[백준 동적 계획법 1 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200120%20%EB%B0%B1%EC%A4%80%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201)
