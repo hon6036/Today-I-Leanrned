@@ -260,4 +260,4 @@
 ---
 ## 2020.01.20 28일차
 
-[점프투 파이썬 함수 - ](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200120%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC9%EC%9D%BC%EC%B0%A8)
+[점프투 파이썬 함수 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200120%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC9%EC%9D%BC%EC%B0%A8)
