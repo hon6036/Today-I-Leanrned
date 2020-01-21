@@ -272,3 +272,5 @@
 ## 2020.01.21 29일차
 
 [프로그램 입력과 출력, 파일 읽고 쓰기 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200121%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC10%EC%9D%BC%EC%B0%A8)
+
+[백준 정렬 + 동적 계획법 - 도영](https://github.com/dirhqh7889/doyoung/tree/master/1day1commit)
