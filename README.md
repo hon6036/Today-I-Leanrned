@@ -274,3 +274,5 @@
 [프로그램 입력과 출력, 파일 읽고 쓰기 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200121%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC10%EC%9D%BC%EC%B0%A8)
 
 [백준 정렬 + 동적 계획법 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200121%20%EC%A0%95%EB%A0%AC%20%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)
+
+[큐, 덱 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200121%20%ED%81%90%2C%EB%8D%B1)
