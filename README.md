@@ -333,3 +333,5 @@
 [분할정복 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200129%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5.md)
 
 [모듈 - 우현](https://github.com/iuisgodness/workplace/commit/742ce60d4b240f67e3da4268d179c6f20fdb558b)
+
+[백준 수학 3 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200129%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%993)
