@@ -337,3 +337,6 @@
 [백준 수학 3 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200129%20%EB%B0%B1%EC%A4%80%20%EC%88%98%ED%95%993)
 
 [백준 동적계획법 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200129%20%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)
+
+---
+## 2020.01.30 38일차
