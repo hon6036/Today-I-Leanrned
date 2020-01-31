@@ -353,3 +353,5 @@
 [패키지 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200131%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC14%EC%9D%BC%EC%B0%A8)
 
 [분할정복 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200131%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5.md)
+
+[백준 큐, 덱 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200131%20%EB%B0%B1%EC%A4%80%20%ED%81%90%2C%EB%8D%B1)
