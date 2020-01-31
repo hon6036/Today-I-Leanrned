@@ -346,3 +346,7 @@
 [분할정복 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200130%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5.md)
 
 [백준 스택 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200130%20%EB%B0%B1%EC%A4%80%20%EC%8A%A4%ED%83%9D)
+
+---
+## 2020.01.31 39일차
+
