@@ -362,3 +362,5 @@
 
 ---
 ## 2020.02.02 41일차
+
+[백준 큐, 덱 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200202%20%EB%B0%B1%EC%A4%80%20%ED%81%90%2C%20%EB%8D%B1)
