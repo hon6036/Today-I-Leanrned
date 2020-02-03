@@ -369,3 +369,5 @@
 ## 2020.02.03 42일차
 
 [예외처리 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200203%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC15%EC%9D%BC%EC%B0%A8)
+
+[백준 큐, 덱, 분할정복 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200203%20%EB%B0%B1%EC%A4%80%20%ED%81%90%2C%20%EB%8D%B1%2C%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
