@@ -375,3 +375,4 @@
 ---
 ## 2020.02.04 43일차
 
+[내장함수 1- 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200204%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC16%EC%9D%BC%EC%B0%A8)
