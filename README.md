@@ -383,3 +383,7 @@
 [내장함수 2 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200205%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC17%EC%9D%BC%EC%B0%A8) 
 
 [블록체인 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200205%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
+
+---
+## 2020.02.06 45일차
+
