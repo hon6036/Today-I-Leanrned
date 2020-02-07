@@ -392,3 +392,6 @@
 [IoT - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200206%20IoT)
 
 [분할정복 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200206%20%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5.md)
+
+---
+## 2020.02.07 46일차
