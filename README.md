@@ -397,3 +397,6 @@
 ## 2020.02.07 46일차
 
 [딥러닝 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200207%20%EB%94%A5%EB%9F%AC%EB%8B%9D)
+
+---
+## 2020.02.08 47일차
