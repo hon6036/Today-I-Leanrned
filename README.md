@@ -410,3 +410,5 @@
 ## 2020.02.10 49일차
 
 [외장함수 2 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200210%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC19%EC%9D%BC%EC%B0%A8)
+
+[이분탐색 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200210%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.md)
