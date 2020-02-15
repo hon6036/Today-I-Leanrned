@@ -441,3 +441,6 @@
 [블록체인 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200214%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8)
 
 [피보나치 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200214%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98)
+
+---
+## 2020.02.14 54일차
