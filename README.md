@@ -461,3 +461,5 @@
 [프로그램 작성하기2 - 우현](https://github.com/iuisgodness/workplace/blob/master/1day1commit/20200218%20%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC22%EC%9D%BC%EC%B0%A8)
 
 [동적계획법2 - 승환](https://github.com/hon6036/myWorkplace/blob/master/1day1commit/20200218%20%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D2.md)
+
+[백준 이분 탐색 - 선우](https://github.com/sue1457/SWSW/blob/master/1day1commit/20200218%20%EB%B0%B1%EC%A4%80%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)
