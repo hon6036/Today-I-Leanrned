@@ -478,3 +478,5 @@
 
 ---
 ## 2020.02.21 60일차
+
+[특허 분석 - 도영](https://github.com/dirhqh7889/doyoung/blob/master/1day1commit/20200222%20%ED%8A%B9%ED%97%88)
